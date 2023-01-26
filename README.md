@@ -28,7 +28,7 @@
 <table>
   <tbody>
       <td width="25%" align="center">
-        <span>𝗩𝗶𝘀𝘂𝗮𝗹 𝗦𝘁𝘂𝗱𝗶𝗼 𝗖𝗼𝗱𝗲</span><br><br><br>
+        <span>𝗩SCODE</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
       </td>
       <td width="25%" align="center">
@@ -44,7 +44,7 @@
         <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
       </td>
       <td width="25%" align="center">
-        <span>canva</span><br><br><br>
+        <span> canva </span><br><br><br>
         <img height="64px" src="https://i.postimg.cc/25Jbb4Ts/1-A6kko-OVJVp-XPWewg8axc5w.png">
       </td>
       <td width="25%" align="center">
