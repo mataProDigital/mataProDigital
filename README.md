@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Claudio O. Otiz</h1>
 <h3 align="center">I am a web designer with a passion for creating attractive and functional sites. I like working on challenging projects and am always looking to learn new skill</h3>
 
@@ -20,17 +21,11 @@
 <a href="https://twitter.com/mataprodigital" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mataprodigital" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
 
 ## 𝗪𝗵𝗮𝘁 𝗜 𝗨𝘀𝗲
 
 <table>
   <tbody>
-      <td width="25%" align="center">
-        <span>𝗩SCODE</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
-      </td>
       <td width="25%" align="center">
         <span>HTML</span><br><br><br>
         <img height="64px" src="https://i.postimg.cc/cLc4GfVR/HTML5-logo-and-wordmark-svg.png">
@@ -38,16 +33,22 @@
       <td width="25%" align="center">
         <span>CSS</span><br><br><br>
         <img height="64px" src="https://i.postimg.cc/43t7cYMn/CSS3-logo-and-wordmark-svg.png">
-      </td>
+    </td>
+    </tr>
+  </tbody>
+</table>
+
+## Tools 🛠️
+<table>
+  <tbody>
       <td width="25%" align="center">
         <span>𝗚𝗶𝘁</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
       </td>
-  </tbody>
-</table>
-
-<table>
-  <tbody>
+      <td width="25%" align="center">
+        <span>𝗩SCODE</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
+      </td>
       <td width="25%" align="center">
         <span> canva </span><br><br><br>
         <img height="64px" src="https://i.postimg.cc/25Jbb4Ts/1-A6kko-OVJVp-XPWewg8axc5w.png">
