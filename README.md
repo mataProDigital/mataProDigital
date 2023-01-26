@@ -29,3 +29,9 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mataprodigital&" alt="mataprodigital" /></p>
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=mataprodigital.mataprodigital) <br>
+<!-- [![HitCount](http://hits.dwyl.com/mataprodigital/mataprodigital/mataprodigital.svg)](http://hits.dwyl.com/mataprodigital/mataprodigital5/mataprodigital) -->
+
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=mataprodigital.mataprodigital)
+[![HitCount](http://hits.dwyl.com/mataprodigital/mataprodigital/mataprodigital.svg)](http://hits.dwyl.com/mataprodigital/mataprodigital/mataprodigital) <
