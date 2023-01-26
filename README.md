@@ -43,6 +43,12 @@
         <span>𝗚𝗶𝘁</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
       </td>
+      
+    </tr>
+  </tbody>
+</table>
+<table>
+  <tbody>
       <td width="25%" align="center">
         <span> canva </span><br><br><br>
         <img height="64px" src="https://i.postimg.cc/25Jbb4Ts/1-A6kko-OVJVp-XPWewg8axc5w.png">
@@ -54,7 +60,6 @@
     </tr>
   </tbody>
 </table>
-
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mataprodigital&show_icons=true&locale=en&layout=compact" alt="mataprodigital" /></p>
