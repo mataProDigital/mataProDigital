@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Claudio O. Ortiz</h1>
+<h1 align="center">Hi 👋, I'm Claudio O.Ortiz</h1>
 <h3 align="center">I am a web designer with a passion for creating attractive and functional sites. I like working on challenging projects and am always looking to learn new skill</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mataprodigital&label=Profile%20views&color=0e75b6&style=flat" alt="mataprodigital" /> </p>
