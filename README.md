@@ -34,7 +34,7 @@
         <span>CSS</span><br><br><br>
         <img height="64px" src="https://i.postimg.cc/43t7cYMn/CSS3-logo-and-wordmark-svg.png">
     </td>
-    </tr>
+   
   </tbody>
 </table>
 
@@ -57,7 +57,7 @@
         <span>Proximo</span><br><br><br>
         <img height="64px" src="https://i.postimg.cc/vBr00H1Z/Word-Press-blue-logo-svg-1.png">
       </td>
-    </tr>
+   
   </tbody>
 </table>
 
