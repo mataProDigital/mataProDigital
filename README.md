@@ -2,10 +2,6 @@
 <h1 align="center">Hi 👋, I'm Claudio O.Ortiz</h1>
 <h3 align="center">I am a web designer with a passion for creating attractive and functional sites. I like working on challenging projects and am always looking to learn new skill</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mataprodigital&label=Profile%20views&color=0e75b6&style=flat" alt="mataprodigital" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mataprodigital" alt="mataprodigital" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/mataprodigital" target="blank"><img src="https://img.shields.io/twitter/follow/mataprodigital?logo=twitter&style=for-the-badge" alt="mataprodigital" /></a> </p>
 
 - 🌱 I’m currently learning **WordPress**
